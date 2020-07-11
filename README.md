@@ -10,16 +10,18 @@ Python APIs for the following tasks:</br>
 
 ## pagination
 
-Programs to scrape data from the static pages of the following websites - Ajio, Bewakoof, Flipkart, Limeroad.  </br>
+Programs to scrape data from the product pages of the following websites - Ajio, Bewakoof, Flipkart, Limeroad.  </br>
 
-1. Static:
   - Ajio
   - Bewakoof
   - Flipkart
   - Limeroad
 
-2. Dynamic
+Programs for pagination of the following websites. </br>
+
   - Ajio
   - Bewakoof
+  - Flipkart
+  - Limeroad
 
 
