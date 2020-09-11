@@ -22,4 +22,5 @@
 ## Files
 
 1. ImageCaptioning.ipynb - Follow the instructions in the notebook to run different versions of the model.
-2. 
+2. imageCaptioning.py - python script to train / test the model.
+3. help_functions.py - python script of custom function for the imageCaptioning.py file
