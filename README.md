@@ -1,5 +1,7 @@
 # Product similarity
 
+---
+
 ## apps
 
 Python APIs for the following tasks:
@@ -24,3 +26,6 @@ Scrapping of information from the individual product page for the following webs
 - Program to train and predict the image captioning model. 
 - Notebook to run different versions of the model.
 - Document describing the different versions of the model.
+
+## viewClassification
+
