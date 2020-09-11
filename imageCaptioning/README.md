@@ -1,4 +1,4 @@
-## ARGUMENTS TO RUN THE PROGRAM ***ImageCaptioning.py***
+# ARGUMENTS TO RUN THE PROGRAM ***ImageCaptioning.py***
 
 
 ### Arguments to run the prediction for the ImageCaptioning model.
@@ -19,6 +19,7 @@
 5. '--model_name' -- 'Name of the model to be saved.'
 
 
-## ImageCaptioning.ipynb 
+## Files
 
-Follow the instructions in the notebook to run different versions of the model.
+1. ImageCaptioning.ipynb - Follow the instructions in the notebook to run different versions of the model.
+2. 
