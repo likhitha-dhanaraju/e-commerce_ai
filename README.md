@@ -29,3 +29,4 @@ Scrapping of information from the individual product page for the following webs
 
 ## viewClassification
 
+Model to classify the view of the product images shown in ecommerce fashion websites. v1 is currently trained on data scraped from [Ajio](ajio.com)
