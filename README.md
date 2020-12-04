@@ -106,7 +106,7 @@ Value: # Category name of the products
 
 ```
 
-# image_captioning
+# image_captioning_app
  
 Given the image of a product, a suitable product name is generated.
 
@@ -116,7 +116,7 @@ Given the image of a product, a suitable product name is generated.
 
 2. Move into the repository. `cd matching-tool/`
 
-3. Move into the repository. `cd image_captioning/`
+3. Move into the repository. `cd image_captioning_app/`
 
 4. Install the necessary packages. `pip install -r requirements.txt`
 
