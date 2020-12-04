@@ -5,6 +5,7 @@ from selenium import webdriver
 import time
 
 url = 'https://www.myntra.com/women-jeans-jeggings'
+category = "Wonen's Jeans"
 
 sub_url = '?p='
 options = webdriver.FirefoxOptions()
@@ -26,9 +27,9 @@ count=1
 
 urls_list=[]
 
-category = url.strip().split('/')[-1]
+filename = 'myntra_' + category + '.txt'
 
-f = open('myntra_'+category+'.txt','w')
+f = open(filename,'w')
 
 for num1 in range(1,num_pages):
 	driver.get(url+sub_url+str(num1))

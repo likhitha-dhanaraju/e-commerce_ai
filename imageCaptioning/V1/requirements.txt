@@ -1,0 +1,8 @@
+tensorflow==2.3.0
+Keras==2.4.3
+opencv_python==4.1.2.30
+matplotlib==3.2.2
+numpy==1.18.5
+Pillow==8.0.1
+protobuf==3.13.0
+scikit_learn==0.23.2
