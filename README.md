@@ -15,21 +15,21 @@ Scrapping products from the search page to the following websites.
 
 ### Instructions to use
 
-1. Clone the repository - `git clone https://bitbucket.org/vectorised/matching-tool.git`
-2. cd `matching-tool/pagination/`
+1. Clone the repository - `git clone https://github.com/likhitha-dhanaraju/e-commerce_ai.git`
+2. cd `e-commerce_ai/pagination/`
 3. Install the required libraries - `pip install -r requirements.txt`
-4. Enter the `URL` and `category` name in the file and run the program.
+4. Enter the `URL` and `category` names in the file and run the program.
 
 
 # description_matcher
 
-Given two product urls, data and images are extracted. The similarity between the names and keywords of the products are shown using various embeddings with cosine similarity 
+Given two product urls, data and images are extracted. The similarity between the names and keywords of the products are shown using various embeddings with cosine similarity. 
 
 ### Instructions to run:
 
-1. Clone the repository. `git clone https://bitbucket.org/vectorised/matching-tool.git`
+1. Clone the repository. `git clone https://github.com/likhitha-dhanaraju/e-commerce_ai.git`
 
-2. Move into the repository. `cd matching-tool/`
+2. Move into the repository. `cd e-commerce_ai/`
 
 3. Move into the repository `cd description_matcher/`
 
@@ -76,9 +76,9 @@ Codes for the following websites are available:
 
 ### Instructions to run:
 
-1. Clone the repository. `git clone https://bitbucket.org/vectorised/matching-tool.git`
+1. Clone the repository. `git clone https://github.com/likhitha-dhanaraju/e-commerce_ai.git`
 
-2. Move into the repository. `cd matching-tool/`
+2. Move into the repository. `cd e-commerce_ai/`
 
 3. Move into the repository. `cd products_scrapper/`
 
@@ -112,9 +112,9 @@ Given the image of a product, a suitable product name is generated.
 
 ### Instructions to run:
 
-1. Clone the repository. `git clone https://bitbucket.org/vectorised/matching-tool.git`
+1. Clone the repository. `git clone https://github.com/likhitha-dhanaraju/e-commerce_ai.git`
 
-2. Move into the repository. `cd matching-tool/`
+2. Move into the repository. `cd e-commerce_ai/`
 
 3. Move into the repository. `cd image_captioning_app/`
 
@@ -154,14 +154,14 @@ Scrapping product details from the following websites - Ajio, Bewakoof, Flipkart
 
 ### Instructions to use
 
-1. Clone the repository - `git clone https://bitbucket.org/vectorised/matching-tool.git`
-2. cd `matching-tool/scrappers/`
+1. Clone the repository - `https://github.com/likhitha-dhanaraju/e-commerce_ai.git`
+2. cd `e-commerce_ai/scrappers/`
 3. Install the required libraries - `pip install -r requirements.txt`
 4. Enter the `URL` of the product in the file and run the program.
 
 # imageCaptioning
 
-Directory containing the different versions of notebooks and python scripts to train the image captioning notebook.
+The directory containing the different versions of notebooks and python scripts to train the image captioning notebook.
 
 ### Instructions to run
 
